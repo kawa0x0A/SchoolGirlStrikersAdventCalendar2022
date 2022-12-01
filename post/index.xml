@@ -1,37 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Posts on スクールガールストライカーズ2 アドベントカレンダー 2022</title>
-    <link>https://kawa0x0a.github.io/SchoolGirlStrikersAdventCalendar2022/post/</link>
-    <description>Recent content in Posts on スクールガールストライカーズ2 アドベントカレンダー 2022</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language><atom:link href="https://kawa0x0a.github.io/SchoolGirlStrikersAdventCalendar2022/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>スクストとの出会いとアドベントカレンダーについて</title>
-      <link>https://kawa0x0a.github.io/SchoolGirlStrikersAdventCalendar2022/post/2021-12-01-introduction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kawa0x0a.github.io/SchoolGirlStrikersAdventCalendar2022/post/2021-12-01-introduction/</guid>
-      <description>この記事は『スクールガールストライカーズ2 Advent Calendar 2021』 の12/1分の記事です。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on スクールガールストライカーズ2 アドベントカレンダー 2022</title><link>https://kawa0x0a.github.io/SchoolGirlStrikersAdventCalendar2022/post/</link><description>Recent content in Posts on スクールガールストライカーズ2 アドベントカレンダー 2022</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><atom:link href="https://kawa0x0a.github.io/SchoolGirlStrikersAdventCalendar2022/post/index.xml" rel="self" type="application/rss+xml"/><item><title>スクストとの出会いとアドベントカレンダーについて</title><link>https://kawa0x0a.github.io/SchoolGirlStrikersAdventCalendar2022/post/2022-12-01-introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kawa0x0a.github.io/SchoolGirlStrikersAdventCalendar2022/post/2022-12-01-introduction/</guid><description>この記事は『スクールガールストライカーズ2 Advent Calendar 2022』 の12/1分の記事です。
 自己紹介 はじめまして。
 kawa と申します。
-スクストのログイン日数は今日の時点で2601日なので、スクスト歴は約7年ほどになります。
-(昨日11月30日に通算ログイン2600日目を迎えました)
-![通算ログイン2600日目]({{ site.baseurl }}/assets/images/posts/20211201_01.PNG)
+スクストのログイン日数は今日の時点で2966日なので、スクスト歴は約8年ほどになります。
 そんなスクストについて思っていることなどを記録に残したくて、今年もアドベントカレンダーを開催しました。
+今年でアドベントカレンダーも4年目になりました。マンネリ化しないように何か工夫できれば思っているので頑張ります。
 どうぞよろしくお願いします。
 スクストとの出会い このスライドがTwitterで話題になっていて、そこから興味を持ち始めて遊ぶようになりました。
 スクールガールストライカーズの内製クライアントエンジン
 https://www.jp.square-enix.com/conference/2014/technical_seminar/img/pdf/SQEX_DevCon_sugimoto.pdf
 現在でもそうですが、当時も動作が早く気軽に遊べたので毎日遊ぶようになり、徐々にハマっていった感じです。
-今のスタメンは、ほたる・ロッティ・まな・にほ様・楓さんという感じです。
-![現在のステータス]({{ site.baseurl }}/assets/images/posts/20211201_02.PNG)
+今のスタメンは、ほたる・ロッティ・まな・ハヅ姐・陽奈という感じです。
 アドベントカレンダーについて アドベントカレンダーとは12/1～12/25まで1つのテーマに沿って毎日ブログの記事などを投稿する企画です。
 元々はプログラミングに関するテーマにしたカレンダーが多かったのですが、現在ではプログラミング以外のカレンダーも増えています。
 このカレンダーもプログラミングとか直接関係の無いテーマですが、面白そうだったのでやってみました。
 執筆者は随時募集中です。 ちなみに、文章だけでなくイラストやスクリーンショットをTwitterにアップして参加することもできます。 ネタの提供だけでも助かりますので、興味のある方はご参加・ご相談いただけると嬉しいです。
-相変わらず、去年と一昨年の記事をコピペした説明です。すいません。</description>
-    </item>
-    
-  </channel>
-</rss>
+相変わらず、去年と一昨年と3年前の記事をコピペした説明です。すいません。</description></item></channel></rss>
