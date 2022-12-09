@@ -10,7 +10,7 @@ title : アップデート情報
 ![新タイトル画面](/SchoolGirlStrikersAdventCalendar2022/20221209_1.PNG)
 
 みんな新衣装を着てかわいいですね。
---生徒会長はなんて表情しているの--
+~~生徒会長はなんて表情しているの~~
 
 ![キャンペーンのお知らせ](/SchoolGirlStrikersAdventCalendar2022/20221209_2.PNG)
 
