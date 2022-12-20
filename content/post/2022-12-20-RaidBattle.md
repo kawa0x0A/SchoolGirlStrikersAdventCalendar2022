@@ -7,7 +7,7 @@ title : 今回の協力戦について
 
 明日から協力戦が始まるため今回の戦力についてまとめておきます。
 
-![ステータス](/SchoolGirlStrikersAdventCalendar2022/20221219_1.PNG)
+![ステータス](/SchoolGirlStrikersAdventCalendar2022/20221220.PNG)
 
 今月の協力戦のメンバーはこんな感じです。
 特攻ガチャ券が多く入手できたので弱特攻メモカが5枚と強特攻メモカが1枚あります。
